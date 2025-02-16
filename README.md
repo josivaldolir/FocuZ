@@ -17,8 +17,4 @@ Entre as funcionalidades do **FocuZ**, estão a possibilidade de avançar ou ret
 ## Instalação
 1. Faça o download do arquivo executável
 2. Execute o arquivo e siga as instruções de instalação
-3. Pronto! Aplicativo pronto para execução
-
-## Tecnologias
-- Python
-- Flet
+3. Pronto! Basta iniciar o aplicativo para um vídeo ser exibido.
